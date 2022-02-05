@@ -33,6 +33,9 @@ Eu escolheria o caminho mais simples aqui
 
 5. Exportar os dados do ponto 4 para um CSV (BONUS POINTS: exportar para formato excel)
 
+
+## Anotações Próprias
+
 ### Arquivos
 
 - desafio_respostas.ipynb - Onde se encontram as respostas
@@ -48,7 +51,7 @@ Eu escolheria o caminho mais simples aqui
 - CNPJ_Setor_Restaurantes.csv
 - CNP_Setor_Restaurantes.xlsx
 
-### Anotações
+### Extra
 
 - 'data situacao cadastral': '20161110'           <==== mudar tipo para data
 - 'pais': '03'                                    <==== mudar tipo para int
