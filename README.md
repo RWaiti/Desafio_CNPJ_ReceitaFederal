@@ -14,7 +14,7 @@ Pequeno desafio para um possível estágio, feito em 28/12/2021
 
 ## Etapas
 
-1. Código ler um dos arquivos em CSVs [Dados Abertos CNPJ ESTABELECIMENTO XX da receita]([www.dsdasd.com.br](https://www.gov.br/receitafederal/pt-br/assuntos/orientacao-tributaria/cadastros/consultas/dados-publicos-cnpj))  (BONUS POINTS: ler todos os arquivos ESTABELECIMENTO)
+1. Código ler um dos arquivos em CSVs [Dados Abertos CNPJ ESTABELECIMENTO XX da receita](https://www.gov.br/receitafederal/pt-br/assuntos/orientacao-tributaria/cadastros/consultas/dados-publicos-cnpj)  (BONUS POINTS: ler todos os arquivos ESTABELECIMENTO)
 
 2. Organizar os dados num hash/dicionario
 
