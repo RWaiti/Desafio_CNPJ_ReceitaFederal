@@ -1,0 +1,43 @@
+'cnpj basico': 64904295
+'cnpj ordem': 18
+'cnpj dv': 51
+'identificador matriz/filial': 2
+'nome fantasia': nan
+'situacao cadastral': 8
+'data situacao cadastral': 20161110                             <==== mudar tipo
+'motivo situacao cadastral': 1
+'nome da cidade no exterior': nan
+'pais': nan                                                     <==== mudar tipo
+'data de inicio atividade': 20050429                            <==== mudar tipo
+'cnae fiscal principal': 4639701
+'cnae fiscal secundária': '4637199'                             <==== mudar tipo
+'tipo de logradouro': 'AVENIDA'
+'logradouro': 'MENINO MARCELO'
+'numero': '8551B'
+'complemento': 'LOTE  2                   QUADRAF'
+'bairro': 'SERRARIA'
+'cep': '57046000'
+'uf': 'AL'
+'municipio': 2785
+'ddd 1': '11'                                                   <==== mudar tipo
+'telefone 1': '36491000'                                        <==== mudar tipo
+'ddd 2': 31.0                                                   <==== mudar tipo
+'telefone 2': '33880436'                                        <==== mudar tipo
+'ddd do fax': 82.0                                              <==== mudar tipo
+'fax': '33118379'                                               <==== mudar tipo
+'correio eletronico': 'CLAUDIO.GIGLIO@CAMIL.COM.BR'
+'situacao especial': nan
+'data da situacao especial': nan                                <==== mudar tipo
+
+'cnae fiscal secundária': '4637199'                             <==== hmm pode ter 15 valores na mesma string
+
+'data situacao cadastral': 20161110                             <==== mudar tipo para data
+'pais': nan                                                     <==== mudar tipo para int
+'data de inicio atividade': 20050429                            <==== mudar tipo para data
+'ddd 1': '11'                                                   <==== mudar tipo para int
+'telefone 1': '36491000'                                        <==== mudar tipo para int
+'ddd 2': 31.0                                                   <==== mudar tipo para int
+'telefone 2': '33880436'                                        <==== mudar tipo para int
+'ddd do fax': 82.0                                              <==== mudar tipo para int
+'fax': '33118379'                                               <==== mudar tipo para int
+'data da situacao especial': nan                                <==== mudar tipo para data
